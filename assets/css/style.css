@@ -126,7 +126,7 @@
 }
 
 .bg-image {
-    background-image: url("../images/Rectangle\ 18.png");
+    background-image: url("../images/hero-section-image.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -232,8 +232,8 @@
     gap: 23px;
 }
 
-.pt-25 {
-    padding-top: 25px;
+.pt-45 {
+    padding-top: 45px;
 }
 
 .para {
@@ -469,6 +469,7 @@
 .mt-50 {
     margin-top: 50px;
 }
+
 
 .subhead {
     font-family: "Poppins", sans-serif;
@@ -822,8 +823,8 @@ font-size: var(--fs-sm1);
     padding-bottom: 13px;
 }
 
-.pb-25 {
-    padding-bottom: 25px;
+.pb-35 {
+    padding-bottom: 35px;
 }
 
 .pt-100 {
